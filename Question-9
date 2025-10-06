@@ -19,9 +19,9 @@ public class Q9 {
         System.out.println("Percentage: " + percentage + "%");
 
         if (m1 >= 40 && m2 >= 40 && m3 >= 40) {
-            System.out.println("Result: PASS ✅");
+            System.out.println("Result: PASS ");
         } else {
-            System.out.println("Result: FAIL ❌");
+            System.out.println("Result: FAIL ");
         }
 
         sc.close();
